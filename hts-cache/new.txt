@@ -1,0 +1,6 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+09:29:39	23163/23163	---M--	200	added ('OK')	text/html	date:Thu,%2027%20Jun%202019%2020:50:54%20GMT	https://roelnie.com/abrel/particles.html	/home/bluntbrain/websites/abrel/roelnie.com/abrel/particles.html	(from )
+09:29:41	26/26	---M--	200	added ('OK')	text/plain	date:Tue,%2006%20Mar%202018%2009:02:24%20GMT	https://roelnie.com/robots.txt		(from )
+09:29:42	1774/1774	---MC-	200	added ('OK')	text/css	date:Fri,%2005%20Jul%202019%2003:59:41%20GMT	https://fonts.googleapis.com/css?family=Montserrat:200,300,400,500,600,700,800	/home/bluntbrain/websites/abrel/fonts.googleapis.com/css9024.css	(from https://roelnie.com/abrel/particles.html)
+09:29:43	904/904	---MC-	200	added ('OK')	text/css	date:Fri,%2005%20Jul%202019%2003:59:42%20GMT	https://fonts.googleapis.com/css?family=Roboto:300,400,500,700	/home/bluntbrain/websites/abrel/fonts.googleapis.com/cssd767.css	(from https://roelnie.com/abrel/particles.html)
+09:29:44	51/51	---MCZ	200	added ('OK')	text/plain	date:Fri,%2005%20Jul%202019%2003:59:43%20GMT	https://fonts.googleapis.com/robots.txt		(from https://roelnie.com/abrel/particles.html)
