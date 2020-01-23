@@ -1,2 +1,0 @@
-# getportfolio
-getportfolio.in
